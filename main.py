@@ -1,5 +1,4 @@
 def main():
-    #escribe tu código abajo de esta línea
     print('Dame el número de mensajes')
     msj=input()
     print('Dame el número de megas')
